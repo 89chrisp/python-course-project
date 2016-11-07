@@ -1,0 +1,299 @@
+[
+    [
+        {
+            "door": {
+                "openable": true,
+                "kickable": false,
+                "storeable": false,
+                "useable": true,
+                "descr": "A sturdy door which looks too solid to force...",
+                "moveable": false,
+                "name": "door"
+            },
+            "switch": {
+                "openable": false,
+                "kickable": false,
+                "storeable": false,
+                "useable": true,
+                "descr": "A small switch hidden behind the painting",
+                "moveable": false,
+                "name": "switch"
+            },
+            "table": {
+                "openable": true,
+                "kickable": false,
+                "storeable": false,
+                "useable": false,
+                "descr": "A wooden rectangular table with a drawer attached.",
+                "moveable": false,
+                "name": "table"
+            },
+            "right painting": {
+                "openable": false,
+                "kickable": false,
+                "storeable": false,
+                "useable": false,
+                "descr": "A painting depicting a cow. This painting looks more worn.",
+                "moveable": true,
+                "name": "right painting"
+            },
+            "middle painting": {
+                "openable": false,
+                "kickable": false,
+                "storeable": false,
+                "useable": false,
+                "descr": "A painting depicting a meadow.",
+                "moveable": true,
+                "name": "middle painting"
+            },
+            "left painting": {
+                "openable": false,
+                "kickable": false,
+                "storeable": false,
+                "useable": false,
+                "descr": "A painting depicting a boat.",
+                "moveable": true,
+                "name": "left painting"
+            }
+        },
+        {
+            "door": {
+                "openable": true,
+                "kickable": false,
+                "storeable": false,
+                "useable": true,
+                "descr": "A heavy metallic door. The door seems to be electronically controlled from a panel next to it.",
+                "moveable": false,
+                "name": "door"
+            },
+            "deerhead": {
+                "openable": false,
+                "kickable": false,
+                "storeable": false,
+                "useable": true,
+                "descr": "A head of a horned deer decorating the wall. There is something off with the horns...",
+                "moveable": false,
+                "name": "deerhead"
+            },
+            "bust": {
+                "openable": false,
+                "kickable": false,
+                "storeable": false,
+                "useable": true,
+                "descr": "The plaque of the bust only reads: Famous author of 'Secrets to move forward'.",
+                "moveable": false,
+                "name": "bust"
+            },
+            "bookshelf": {
+                "openable": false,
+                "kickable": false,
+                "storeable": false,
+                "useable": true,
+                "descr": "A bookshelf filled with books. One looks more worn than the rest...",
+                "moveable": false,
+                "name": "bookshelf"
+            },
+            "torch": {
+                "openable": false,
+                "kickable": false,
+                "storeable": false,
+                "useable": true,
+                "descr": "An unlit torch on the wall.",
+                "moveable": false,
+                "name": "torch"
+            }
+        },
+        {
+            "door": {
+                "openable": true,
+                "kickable": false,
+                "storeable": false,
+                "useable": true,
+                "descr": "A heavy metallic door. The door seems to be electronically controlled from a panel next to it.",
+                "moveable": false,
+                "name": "door"
+            },
+            "chest": {
+                "openable": true,
+                "kickable": false,
+                "storeable": false,
+                "useable": false,
+                "descr": "A sturdy chest with a heavy lock. This thing won't break, you'll have to find a key.",
+                "moveable": false,
+                "name": "chest"
+            },
+            "panel": {
+                "openable": true,
+                "kickable": false,
+                "storeable": false,
+                "useable": true,
+                "descr": "The panel has a numpad on it. This kind of panel usually only allows three failed attempts...",
+                "moveable": false,
+                "name": "panel"
+            }
+        },
+        {
+            "door": {
+                "openable": true,
+                "kickable": false,
+                "storeable": false,
+                "useable": true,
+                "descr": "A solid door. The door lock is connected to the terminal.",
+                "moveable": false,
+                "name": "door"
+            },
+            "terminal": {
+                "openable": false,
+                "kickable": false,
+                "storeable": false,
+                "useable": true,
+                "descr": "A terminal. Perhaps you should use it for more information.",
+                "moveable": false,
+                "name": "terminal"
+            },
+            "table": {
+                "openable": false,
+                "kickable": false,
+                "storeable": false,
+                "useable": false,
+                "descr": "A wooden rectangular table with a terminal on it.",
+                "moveable": false,
+                "name": "table"
+            }
+        },
+        {
+            "door": {
+                "openable": true,
+                "kickable": false,
+                "storeable": false,
+                "useable": true,
+                "descr": "Another sturdy unbreakable door...",
+                "moveable": false,
+                "name": "door"
+            },
+            "left plate": {
+                "openable": false,
+                "kickable": false,
+                "storeable": false,
+                "useable": true,
+                "descr": "A pressure plate which activates as you step on it.",
+                "moveable": false,
+                "name": "left plate"
+            },
+            "right plate": {
+                "openable": false,
+                "kickable": false,
+                "storeable": false,
+                "useable": true,
+                "descr": "A pressure plate which activates as you step on it.",
+                "moveable": false,
+                "name": "right plate"
+            },
+            "crate": {
+                "openable": false,
+                "kickable": false,
+                "storeable": false,
+                "useable": false,
+                "descr": "A large crate. It's rather heavy but you can probably shove it. ",
+                "moveable": true,
+                "name": "crate"
+            }
+        },
+        {
+            "hole": {
+                "openable": false,
+                "kickable": false,
+                "storeable": false,
+                "useable": true,
+                "descr": "A look insde the hole reveals there's a button inside. But the hole is quite small. ",
+                "moveable": false,
+                "name": "hole"
+            },
+            "door": {
+                "openable": true,
+                "kickable": false,
+                "storeable": false,
+                "useable": true,
+                "descr": "A sturdy door which looks too solid to force...",
+                "moveable": false,
+                "name": "door"
+            }
+        },
+        {
+            "door": {
+                "openable": true,
+                "kickable": false,
+                "storeable": false,
+                "useable": true,
+                "descr": "A thick, sturdy metallic door. This would be impossible to force",
+                "moveable": false,
+                "name": "door"
+            },
+            "terminal": {
+                "openable": false,
+                "kickable": false,
+                "storeable": false,
+                "useable": true,
+                "descr": "A terminal. Perhaps you should use it for more information.",
+                "moveable": false,
+                "name": "terminal"
+            }
+        }
+    ],
+    {
+        "note": {
+            "openable": false,
+            "kickable": false,
+            "storeable": true,
+            "useable": true,
+            "descr": "There is something scribbled on the note",
+            "moveable": false,
+            "name": "note"
+        },
+        "book": {
+            "openable": true,
+            "kickable": false,
+            "storeable": true,
+            "useable": false,
+            "descr": "The title reads 'Secrets to move forward'.",
+            "moveable": false,
+            "name": "book"
+        },
+        "sturdy key": {
+            "openable": false,
+            "kickable": false,
+            "storeable": true,
+            "useable": false,
+            "descr": "A sturdy key. I'm sure it fits some lock in these rooms.",
+            "moveable": false,
+            "name": "sturdy key"
+        },
+        "wire cutter": {
+            "openable": false,
+            "kickable": false,
+            "storeable": true,
+            "useable": false,
+            "descr": "Used for cutting wires.",
+            "moveable": false,
+            "name": "wire cutter"
+        }
+    },
+    {
+        "five": true,
+        "seven": true,
+        "six": true,
+        "one": true,
+        "four": true,
+        "two": true,
+        "three": true
+    },
+    {
+        "current_room": 7
+    },
+    {
+        "moved": true
+    },
+    {
+        "code count": 0
+    }
+]
